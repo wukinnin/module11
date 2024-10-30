@@ -14,13 +14,13 @@ ignoreErrors = ["error-remote-getjson"]
 [params]
   copyright = "© SerKo"
 
-# [menu]
+[menu]
 
-#   [[menu.main]]
-#     identifier = "about"
-#     name = "About"
-#     url = "/about/"
-#     weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
 
 # [taxonomies]
 # category = "categories"
