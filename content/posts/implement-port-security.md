@@ -7,7 +7,17 @@ Add first one 2960 switch and rename to S1
 
 ![](/2ac9bd48-3401-48ba-bcf3-6c8bbbf30546.PNG)
 
-Then access CLI and configure
+Then access CLI, enable privileged EXEC, enter configuration mode, and change hostname to S1
+
+```
+Switch>
+Switch>enable
+Switch#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#
+Switch(config)# hostname S1
+S1(config)#
+```
 
 ---
 
