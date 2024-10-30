@@ -3,7 +3,7 @@ title = "About"
 aliases = ["about-us", "about-hugo", "contact"]
 +++
 
-This is a reference page for
+This is a reference page for Cisco Networking Academy
 
 **CCNA v7 Switching, Routing, and Wireless Essentials**
 
