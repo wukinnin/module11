@@ -1,5 +1,5 @@
 +++
-title = 'Demo 2 - Mitigate Vlan Attacks'
+title = 'Demo 2 - Mitigate VLAN Attacks'
 date = 2024-10-30T16:04:26+08:00
 +++
 
