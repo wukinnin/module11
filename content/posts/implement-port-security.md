@@ -3,6 +3,14 @@ title = 'Demo 1 - Implement Port Security'
 date = 2024-10-30T16:04:26+08:00
 +++
 
+Add first one 2960 switch and rename to S1
+
+![](/2ac9bd48-3401-48ba-bcf3-6c8bbbf30546.PNG)
+
+Then access CLI and configure
+
+---
+
 Implement port security for a switch interface based on the specified requirements
 
 You are currently logged into S1. Configure FastEthernet 0/5 for port security by using the following requirements:
@@ -14,12 +22,6 @@ You are currently logged into S1. Configure FastEthernet 0/5 for port security b
 - Statically configure the MAC address aaaa.bbbb.1234.
 - Configure the port to dynamically learn additional MAC addresses and dynamically add them to the running configuration.
 - Return to privileged EXEC mode.
-
-Add first one 2960 switch and rename to S1
-
-![](/2ac9bd48-3401-48ba-bcf3-6c8bbbf30546.PNG)
-
-Then access CLI and configure
 
 ```
 Switch>enable
