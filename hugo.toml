@@ -1,6 +1,7 @@
 baseURL = "https://module11.pages.dev"
 theme = 'holy'
 title = "Module 11"
+
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 3
